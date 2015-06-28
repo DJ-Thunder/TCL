@@ -45,3 +45,5 @@ proc announce_usrdelete {c} {
 
 	putserv "PRIVMSG #online.intern :User $c deleted [getbncuser $c client]"
 }
+
+putlog "sbncpost.tcl v1.0 by Thunder loaded successfully"
