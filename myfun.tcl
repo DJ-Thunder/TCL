@@ -259,4 +259,4 @@ return
 }
 }
 
-putlog "Fun by CyberNetworX loaded - #CyberNetworX"
+putlog "Fun by CyberNetworX loaded - #online"
