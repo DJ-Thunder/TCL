@@ -258,4 +258,5 @@ putquick "PRIVMSG $chan :$nick's arschloch ist [lindex $myass [rand [llength $my
 return
 }
 }
+
 putlog "Fun by CyberNetworX loaded - #CyberNetworX"
